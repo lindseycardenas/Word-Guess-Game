@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "%20//lindseycardenas.github.io/survivor/precache-manifest.cfe5100e13a0ef6e8c1cd1e43464f13d.js"
+  "%20//lindseycardenas.github.io/survivor/precache-manifest.8aaa059e35181e0e59e45b92a372b865.js"
 );
 
 self.addEventListener('message', (event) => {

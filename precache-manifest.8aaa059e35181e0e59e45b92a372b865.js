@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c34abde94d35fbb9e6e37e889e31c420",
+    "revision": "706af1383c12010ab4cb865872ae5b60",
     "url": "%20//lindseycardenas.github.io/survivor/index.html"
   },
   {
-    "revision": "45aacfc8db30e44146b5",
+    "revision": "5c85fdeb7599609f8820",
     "url": "%20//lindseycardenas.github.io/survivor/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "%20//lindseycardenas.github.io/survivor/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "45aacfc8db30e44146b5",
-    "url": "%20//lindseycardenas.github.io/survivor/static/js/main.85ca8b44.chunk.js"
+    "revision": "5c85fdeb7599609f8820",
+    "url": "%20//lindseycardenas.github.io/survivor/static/js/main.942cd22f.chunk.js"
   },
   {
     "revision": "15b98bd656ab344db2aa",
